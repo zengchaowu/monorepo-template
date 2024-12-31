@@ -5,3 +5,7 @@ output/
 .DS_Store
 .pnpm-debug.log
 .idea
+
+.eslintcache
+
+tsconfig.tsbuildinfo
